@@ -1,0 +1,1 @@
+# Haile Kattis solution
